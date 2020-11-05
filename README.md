@@ -4,4 +4,4 @@
 
 ## pandas - iris dataset
 
-Going through a Jupyter Notebook - analyse the iris dataset - bare bones analysis through the package - pandas [2.5]
+Going through a [Jupyter Notebook](https://github.com/E6985/pda-pandas-iris/blob/main/panda-iris-dataset.ipynb) - analyse the iris dataset - bare bones analysis through the package - pandas [2.5]
