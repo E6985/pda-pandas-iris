@@ -1,6 +1,6 @@
-< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Table of Contents](https://github.com/E6985) | [README](https://github.com/E6985/pda-pandas-iris/blob/master/README.md) >
+< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Table of Contents](https://github.com/E6985) | [README](https://github.com/E6985/pda-pandas-iris/blob/main/README.md) >
 
-<img src="img/gmit.png" />
+![GMIT](https://github.com/E6985/pda-numpy-random/blob/main/img/gmit.png?raw=true)
 
 ## pandas - iris dataset
 
